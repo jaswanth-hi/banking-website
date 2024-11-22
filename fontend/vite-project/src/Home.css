@@ -1,0 +1,34 @@
+.home-container{
+    display: flex;
+
+}
+.images{
+    background-image: url("https://www.marketing91.com/wp-content/uploads/2019/10/Importance-of-computers-in-banking.jpg");
+    background-repeat:no-repeat ;
+    width:200vh ;
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.texts{
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 20px;
+
+}
+.texts h2{
+    color: #333366;
+    padding-left: 20px;
+}
+.texts p{
+    color: #666666;
+    padding-left: 20px;
+}
+.texts img{
+    height: 300px;
+    width: 700px ;
+    padding-left: 90px;
+}
